@@ -1,8 +1,8 @@
-# Modified with Sundry.
+# Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.12.0.schema.json
 
-PackageIdentifier: accellence.vimaccEnterprise_2215
-PackageVersion: 2.2.15.4
+PackageIdentifier: HMCL.HMCL.Dev.CNB
+PackageVersion: 3.11.0.321
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.12.0
