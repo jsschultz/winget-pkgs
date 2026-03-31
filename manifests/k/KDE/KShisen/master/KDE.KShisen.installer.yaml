@@ -9,14 +9,14 @@ ProductCode: kshisen
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-833-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 95285BDC1E27802920FADDA4F03BFB72ABE8E087B60701596BE6752082A71858
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-855-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: DCB3CAC9C458EC1028D8C9FAA64B7C2E80CF74DB7521D7A69CF8283984E2DEC9
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-833-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 95285BDC1E27802920FADDA4F03BFB72ABE8E087B60701596BE6752082A71858
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kshisen/master/windows/kshisen-master-855-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: DCB3CAC9C458EC1028D8C9FAA64B7C2E80CF74DB7521D7A69CF8283984E2DEC9
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer

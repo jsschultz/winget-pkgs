@@ -9,14 +9,14 @@ ProductCode: kspaceduel
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-729-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: EDC35F239442E5B782233513653895BF85FB75728DCF4F2104C3427B27E65BCE
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-752-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 3E31BFE71653851D7C006C5DE94ADFCC80F90E98ADD8A088F8CD86412E91C488
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-729-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: EDC35F239442E5B782233513653895BF85FB75728DCF4F2104C3427B27E65BCE
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kspaceduel/master/windows/kspaceduel-master-752-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 3E31BFE71653851D7C006C5DE94ADFCC80F90E98ADD8A088F8CD86412E91C488
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
